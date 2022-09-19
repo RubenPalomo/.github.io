@@ -1,2 +1,2 @@
 # rubenpalomo.github.io
-Página web de Rubén Palomo Fontán
+Personal web site
